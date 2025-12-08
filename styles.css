@@ -477,6 +477,10 @@ section {
 
         display: none;
     }
+
+    #btt {
+
+        display: none;
 }
 
 @media print {
@@ -495,4 +499,5 @@ section {
 
         filter: grayscale();
     }
+
 }
